@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>229C50E8-133F-4D1A-A327-EAB3048A68DF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ociney</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EF8469C7F81342A4280C20D3E73666BED150DA13</key>
+		<string>https://bitbucket.org/florent45/ociney-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ociney/ociney.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EF8469C7F81342A4280C20D3E73666BED150DA13</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/florent45/ociney-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EF8469C7F81342A4280C20D3E73666BED150DA13</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EF8469C7F81342A4280C20D3E73666BED150DA13</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ociney-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
