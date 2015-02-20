@@ -3,7 +3,6 @@
 OCiney is a sample app implementing several UI and UX patterns.
 I was firstly built to test a few different implementations of a details page.
 
-![alt text](https://raw.githubusercontent.com/florent37/OCiney-iOS/master/screens/0.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/florent37/OCiney-iOS/master/screens/1.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/florent37/OCiney-iOS/master/screens/2.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/florent37/OCiney-iOS/master/screens/3.png?raw=true)
