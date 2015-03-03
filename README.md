@@ -1,7 +1,7 @@
 # OCiney
 
-OCiney is a sample app available on iTune :  https://itunes.apple.com/us/app/id955480687
-I was firstly built to test a few different implementations of a details page.
+OCiney is a sample app available on iTunes :  https://itunes.apple.com/us/app/id955480687
+It was first built to test a few different implementations of a details page.
 
 ![alt text](https://raw.githubusercontent.com/florent37/OCiney-iOS/master/screens/1.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/florent37/OCiney-iOS/master/screens/2.png?raw=true)
