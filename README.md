@@ -1,5 +1,7 @@
 # OCiney
 
+[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=562dba612492560100211458&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/562dba612492560100211458/build/latest)
+
 OCiney is a sample app available on iTune :  https://itunes.apple.com/us/app/id955480687
 I was firstly built to test a few different implementations of a details page.
 
